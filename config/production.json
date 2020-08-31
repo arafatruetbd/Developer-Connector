@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://MERN:123040cse@cluster0.5qcwc.mongodb.net/Social?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretkey",
+  "githubToken": "de3cdc931dfebbca790e10bfc0b962bc29be57f2"
+}
